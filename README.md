@@ -1,5 +1,8 @@
 # 🌱 MindGarden - Java Habit Tracker
 
+> 🚧 **Project Status**: In Progress 🚧  
+> This project is still under development. Features and design are subject to change.
+
 MindGarden is a simple Java-based habit tracker that visualizes your progress by growing a plant 🌿. The more consistent you are, the more your plant grows!
 
 ---
